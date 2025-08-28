@@ -484,6 +484,6 @@ Este proyecto está licenciado bajo la Licencia MIT - consulta el archivo [LICEN
 
 [![GitHub stars](https://img.shields.io/github/stars/yourusername/hrm-system?style=social)](https://github.com/yourusername/hrm-system/stargazers)
 
-**Made with ❤️ by [Your Name] | Hecho con ❤️ por [Tu Nombre]**
+**Made with ❤️ by ROBERTO GONZALEZ**
 
 </div>
